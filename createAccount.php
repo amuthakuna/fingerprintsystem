@@ -6,7 +6,7 @@ createAccount();
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Students</title>
+		<title>StudentsAccount</title>
 		<link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap.min.css">
 		<style type="text/css">
 
@@ -14,7 +14,7 @@ createAccount();
 		{
 			color:white;
 			padding: 5px;
-			font-size: 45px;
+			font-size: 25px;
 			height: 90px;
 			background-color: #779;
 		}
